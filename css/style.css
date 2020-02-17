@@ -725,12 +725,10 @@ header .nav-bar ul li a.active::before {
   color: #fff;
   z-index: 100;
   opacity: 0;
-  /* visibility: hidden; */
   transition: all 0.5s ease;
 }
 .slider-container .slide:hover .slide-layer {
   opacity: 1;
-  /* visibility: visible; */
 }
 .slide .slide-image {
   width: 50%;
